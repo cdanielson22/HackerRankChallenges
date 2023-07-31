@@ -14,13 +14,12 @@ public class Solution {
         Boolean first = true;
         while(true){
             if (first == false){
-                System.out.print("Would you like to continue (y or n): ");
                 keepGoing = scanner.nextLine();
-                first = false;
+                System.out.print("Would you like to continue (y or n): ");
             }
             if (keepGoing == "y"){
+                System.out.print("Enter a number: ");
                 N = scanner.nextInt();
-                scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
 
                 if (N % 2 == 1) {
                     System.out.println("weird");
@@ -33,6 +32,7 @@ public class Solution {
                         System.out.println("Not weird");
                     }
                 }
+                first = false;
             } else {
                 scanner.close();
             }
