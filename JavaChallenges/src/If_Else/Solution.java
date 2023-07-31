@@ -1,4 +1,4 @@
-package JavaChallenges.If_Else;
+package JavaChallenges.src.If_Else;
 
 import java.util.*;
 
