@@ -1,4 +1,4 @@
-package JavaChallenges.java.src.main.java.hackerrankchallenges.Welcome_to_J;
+package hackerrankchallenges.Welcome_to_J;
 
 public class Solution {
 

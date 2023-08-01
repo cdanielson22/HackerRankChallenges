@@ -1,4 +1,4 @@
-package JavaChallenges.java.src.main.java.hackerrankchallenges;
+package hackerrankchallenges;
 
 /**
  * Hello world!

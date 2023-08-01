@@ -1,4 +1,4 @@
-package JavaChallenges.java.src.main.java.hackerrankchallenges.If_Else;
+package hackerrankchallenges.If_Else;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package JavaChallenges.java.src.test.java.hackerrankchallenges;
+package hackerrankchallenges;
 
 import static org.junit.Assert.assertTrue;
 
