@@ -2,7 +2,7 @@ package hackerrankchallenges.If_Else;
 
 import java.util.*;
 
-public class Solution {
+public class IfSolution {
 
 
 
