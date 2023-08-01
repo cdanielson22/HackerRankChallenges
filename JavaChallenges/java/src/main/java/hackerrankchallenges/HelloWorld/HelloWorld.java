@@ -1,6 +1,6 @@
-package hackerrankchallenges.Welcome_to_J;
+package hackerrankchallenges.HelloWorld;
 
-public class WelcomeSolution {
+public class HelloWorld {
 
     public static void main(String[] args) {
         System.out.println("Hello, World.");
